@@ -1,45 +1,5 @@
-# js-problems-part1-practice-tasks
-
-### Task-1: 
-Write a function to convert temperature from Celsius to Fahrenheit.
-
----
-
-### Task-2: 
-You are given an array of numbers. Count how many times the a number is repeated in the array. 
-
-sample-input: 
-numbers = [5,6,11,12,98, 5]
-
-find: 5
-
-output: 2
-
-<br/>
-
-sample-input: 
-
-numbers = [5,6,11,12,98, 5]
-
-find: 25
-
-output: 0
-
-
-
-----
-### Task-3: 
-Write a function to count the number of vowels in a string.
-
----
-### Task-4: 
-Write a function to find the longest word in a given string.
-
-sample-input: 
-I am learning Programming to become a programmer
-
-sample-output: Programming
-
-----
-### Task-5: 
-Generate a random number between 10 to 20.
+learning of  this five task
+1.jodi ami proti ta word alada korte cai tahole split function use kore akta variable e rakhte hbe then seta akta string er moto acoron korbe  then index diye seta jekono kaj kora jabe proti ta word niye.
+2.for gettting random number ----->Math.random*(max-min+1)+min
+max-min+1----->range 
+min---->start here to random number 
